@@ -20,13 +20,13 @@ Gross profit margin helps measure how efficiently revenue is converted into prof
 
 Among the countries analyzed:
 
-•	**Switzerland** has the highest gross profit margin at **0.29**, but generates relatively low profit **($7,234)**.
+•	**Switzerland** has the highest gross profit margin at **0.29**, but generates relatively low profit **($7,234)**. - <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/Switzerland%20KPI.jpg">Switzerland Dashboard View</a>
 
-•	**Austria** shows the second-highest margin at **0.27**, with moderate profit levels **($21,332)**.
+•	**Austria** shows the second-highest margin at **0.27**, with moderate profit levels **($21,332)**. <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/Austria%20KPI.jpg">Austria Dashboard View</a>
 
-•	**Belgium** has a gross profit margin of **0.23** but lower total profit **($9,912)**.
+•	**Belgium** has a gross profit margin of **0.23** but lower total profit **($9,912)**. <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/Belgium%20KPI.jpg">Belgium Dashboard View</a>
 
-•	**Germany**, while having a slightly lower gross profit margin of **0.18**, generates the **highest overall profit at $86,279**.
+•	**Germany**, while having a slightly lower gross profit margin of **0.18**, generates the **highest overall profit at $86,279**. <
 
 This indicates that although some countries demonstrate higher margins, Germany significantly outperforms them in total profitability, suggesting stronger overall business performance.
  
@@ -34,9 +34,9 @@ This indicates that although some countries demonstrate higher margins, Germany 
 
 Sales volume is another important factor in identifying regions with strong customer demand.
 
-•	**France records the highest total sales at $609.68K**, indicating strong market demand.
+•	**France records the highest total sales at $609.68K**, indicating strong market demand. <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/France%20KPI.jpg">France Dashboard View</a>
 
-•	However, France has a **lower gross profit margin of 0.11 and total profit of $70,067**, both of which are lower than Germany.
+•	However, France has a **lower gross profit margin of 0.11 and total profit of $70,067**, both of which are lower than Germany. 
 
 •	**Germany records the second-highest sales at $488.68K**, while maintaining **higher profitability and a stronger gross profit margin than France**.
 
@@ -46,7 +46,7 @@ This suggests that Germany achieves a more favorable balance between sales perfo
 
 Customer demand can also be evaluated through the number of orders processed.
 
-•	**France has the highest number of orders with 7,329 transactions**.
+•	**France has the highest number of orders with 7,329 transactions**. 
 
 •	**Germany follows closely with 6,179 orders**.
 
