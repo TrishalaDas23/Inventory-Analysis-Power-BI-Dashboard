@@ -8,7 +8,9 @@ The analysis evaluates key performance metrics **(KPIs)** including **profit, gr
  
 ## Profit Analysis:
 
-Profitability is a key factor when determining the optimal location for a new distribution center. Among all countries analyzed, **Germany, located in the Central region, generates the highest total profit of $86,279**. This indicates strong market performance and demand within the region.
+Profitability is a key factor when determining the optimal location for a new distribution center. Among all countries analyzed, **Germany, located in the Central region, generates the highest total profit of $86,279**. This indicates strong market performance and demand within the region. 
+
+- <a href="https://github.com/TrishalaDas23/Inventory-Analysis-Power-BI-Dashboard/blob/main/Germany%20KPI.jpg">Germany Dashboard View</a>
 
 Higher profitability suggests that Germany represents a strong revenue-generating market, making it a strategically advantageous location for expanding distribution operations.
  
