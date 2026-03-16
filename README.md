@@ -6,7 +6,7 @@ As an Inventory Analyst on the Operations team at Amazing Mart, an analysis was 
 
 The analysis evaluates key performance metrics **(KPIs)** including **profit, gross profit margin, sales performance, order volume, and average shipping time** across three geographic regions: **North, South, and Central Europe**. The insights derived from this analysis aim to determine which country offers the most favorable combination of demand, profitability, and operational efficiency.
 
-##Dashboard:
+## Dashboard:
 - <a href="https://github.com/TrishalaDas23/Data-Analysis-Power-BI-Dashboard/blob/main/1.%20PowerBI%20Dashboard.pbix">Open the dashboard on Power BI</a>
 
 ![Image](https://github.com/user-attachments/assets/d875ff30-c109-458f-a0dd-c3f9c60d5dff)
