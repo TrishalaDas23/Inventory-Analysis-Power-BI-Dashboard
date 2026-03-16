@@ -1,6 +1,6 @@
-##Warehouse Location Analysis Report for Amazing Mart
+# Warehouse Location Analysis Report for Amazing Mart
 
-Introduction:
+## Project Objective:
 
 As an Inventory Analyst on the Operations team at Amazing Mart, an analysis was conducted to identify the most suitable location for establishing a new warehouse or distribution center outside the company’s headquarters in London. The objective of this analysis is to support the executive team in making a data-driven decision that will improve delivery efficiency and better serve customers located farther from London.
 The analysis evaluates key performance metrics including profit, gross profit margin, sales performance, order volume, and average shipping time across three geographic regions: North, South, and Central Europe. The insights derived from this analysis aim to determine which country offers the most favorable combination of demand, profitability, and operational efficiency.
