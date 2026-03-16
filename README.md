@@ -1,4 +1,4 @@
-Warehouse Location Analysis Report for Amazing Mart
+##Warehouse Location Analysis Report for Amazing Mart
 
 Introduction:
 
