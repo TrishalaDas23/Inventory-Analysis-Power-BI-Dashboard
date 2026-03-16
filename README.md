@@ -1,4 +1,4 @@
-# Warehouse Location Data Analysis Report for Amazing Mart
+# Data Analysis Report for Amazing Mart
 
 ## Project Objective:
 
